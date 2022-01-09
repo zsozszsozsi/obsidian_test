@@ -7,11 +7,8 @@
         "id": "2b0af970fdf46920",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "halo2.md",
-            "mode": "preview"
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -68,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "halo2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +84,7 @@
   },
   "active": "2b0af970fdf46920",
   "lastOpenFiles": [
+    "uj mappa/uj note.md",
     "halo2.md",
     "halo.md"
   ]
