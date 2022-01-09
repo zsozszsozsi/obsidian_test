@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "halo.md",
+            "file": "halo2.md",
             "mode": "preview"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "halo.md",
+                "file": "halo2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +88,7 @@
   },
   "active": "2b0af970fdf46920",
   "lastOpenFiles": [
+    "halo2.md",
     "halo.md"
   ]
 }
